@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+* {
+	font-family: Arial, sans-serif;
+}
+#container {
+	width: 500px;
+	margin: 20px auto;
+	padding-left: 50px;
+}
+td {
+	font-size: 150%;
+}
+input, textarea {
+	width: 300px;
+	margin: 0;
+	padding: 2px;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+textarea {
+	height: 8ex;
+}
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#head {
+	font-size: 150%;
+	font-weight: bold;
+	margin: 20px auto;
+	text-align: center;
+}
+#text {
+	text-align: center;
+}
