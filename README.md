@@ -6,9 +6,13 @@ In this demo some files are stored and some instructions are written in this REA
 ## START
 
 In this tutorial you will create a contactform.
+
 1. Fork this repository to your own GitHub.
+
 2. Pull the repo to your local development environment.
-3. Change index.php with the following code. Add this between the <body> tags.
+
+3. Change index.php with the following code. Add this between the `<body>` tags.
+
 ```html
 <div id="container">
     <img src="glulogo.png">
@@ -25,6 +29,7 @@ In this tutorial you will create a contactform.
     </div>
 </div>
 ```
+
 4. Stage, commit and push your changes.
 
 Success!
