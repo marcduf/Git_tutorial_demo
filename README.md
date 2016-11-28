@@ -9,6 +9,7 @@ In this tutorial you will create a contactform.
 1. Fork this repository to your own GitHub.
 2. Pull the repo to your local development environment.
 3. Change index.php with the following code. Add this between the <body> tags.
+    <code>
     <div id="container">
     <img src="glulogo.png">
     <div id="head" style="">Mediadeveloper contactformulier</div>
@@ -22,6 +23,7 @@ In this tutorial you will create a contactform.
     </form>
     </table>
     </div>
+    </code>
 4. Stage, commit and push your changes
 
 Succes!
